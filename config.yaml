@@ -1,4 +1,4 @@
-baseURL: https://example.com
+baseURL: https://henckell.github.io
 languageCode: en-us
 title: Leonard Henckel
 theme: hugo-theme-cactus
@@ -42,7 +42,7 @@ params:
     engine: cactus_comments
     utterances:
       label: hugo-site-name
-      repo: <github_username>/<github_reponame>
+      repo: henckell/henckell.github.io
       theme: github-light
   dateFormat: '2006-01-02'
   description: "Hi. I am Leonard. \n\n I am a postdoc at Copenhagen Causality Lab of KU working with Jonas Peters. \n\n
@@ -52,7 +52,7 @@ params:
   googleAnalyticsAsync: yes
   # mainSection: 
   postsOnHomePage: 0
-  projectsUrl: https://github.com/gohugoio
+  projectsUrl: https://github.com/henckell/henckell.github.io
   rss: yes
   show_updated: yes
   showAllPostsArchive: no
