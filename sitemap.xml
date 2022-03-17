@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://henckell.github.io/categories/</loc>
   </url><url>
-    <loc>https://example.com/</loc>
+    <loc>https://henckell.github.io/</loc>
   </url><url>
-    <loc>https://example.com/research/</loc>
+    <loc>https://henckell.github.io/research/</loc>
   </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://henckell.github.io/tags/</loc>
   </url><url>
-    <loc>https://example.com/talks/</loc>
+    <loc>https://henckell.github.io/talks/</loc>
   </url><url>
-    <loc>https://example.com/teaching/</loc>
+    <loc>https://henckell.github.io/teaching/</loc>
   </url>
 </urlset>
