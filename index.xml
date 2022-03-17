@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Leonard Henckel</title>
+    <link>https://example.com/</link>
+    <description>Recent content on Leonard Henckel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Publications</title>
+      <link>https://example.com/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/research/</guid>
+      <description>Published papers:
+J. Witte, L. Henckel, M. H. Maathuis, V. Didelez. On efficient adjustment in causal graphs. Journal of Machine Learning Research, 21(246):1-45. arxiv R-code
+L. Henckel, E. Perkovi&#39;c, M. H. Maathuis. Graphical Criteria for Efficient Total Effect Estimation via Adjustment in Causal Linear Models. Journal of the Royal Statistical Society: Series B arxiv
+D. Hangartner, M. Marbach, L. Henckel, M. H. Maathuis, L. Keele. Profiling compliers in instrumental variable designs.</description>
+    </item>
+    
+    <item>
+      <title>Talks, Posters and Research Visits</title>
+      <link>https://example.com/talks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/talks/</guid>
+      <description>NORDSTAT, Tromso, June 2021
+Invited talk: Efficient conditional instrumental set selection
+CMStatistics, virtual, December 2020
+Invited talk: Efficient conditional instrumental set selection
+EUROCIM, Bremen, March 2019
+Contributed talk: Graphical criteria for efficient total effect estimation via adjustment
+Swiss Statistics Seminar, Bern, March 2019
+Poster: Efficient conditional instrumental set selection
+Leibniz-Institut für Präventionsforschung und Epidemiologie - BIPS, October 2019
+One week research visit
+StathMathAppli, Frejus, September 2019
+Summer school
+CMStatistics, Pisa, December 2018</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://example.com/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/teaching/</guid>
+      <description>Teaching assistant:
+Models for Complex Systems (Spring 2022)
+Student Seminar in Statistics: Statistical Network Modeling (Spring 2021)
+Statistical Modelling (Autumn 2020)
+Student Seminar in Statistics: Inference in Non-Classical Regression Models (Spring 2020)
+Statistics II for Medical Students (Autumn 2019)
+Statistics and Probability (Spring 2019)
+Applied Statistical Regression (Autumn 2018)
+Statistics and Probability (Spring 2018)
+Algebra I (Autumn 2016)
+ Master thesis supervision:
+Zehao Su (2021). Testing Over-identifying Constraints for Verification of Total Causal Effect Estimation</description>
+    </item>
+    
+  </channel>
+</rss>
