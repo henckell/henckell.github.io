@@ -13,9 +13,9 @@
       
       <guid>https://henckell.github.io/research/</guid>
       <description>Published papers:
+L. Henckel, M. Buttenschon, M. H. Maathuis Graphical tools for selecting conditional instrumental sets. Biometrika, to appear. link
 S. Zehao, L. Henckel. A Robustness Test for Estimating Total Effects with Covariate Adjustments. Proceedings of the 38th Conference on Uncertainty in Artificial Intelligence (UAI), 180:1886-1895, 2022 link
-S. Saengkyongam, L. Henckel, N. Pfister, J. Peters. Exploiting Independent Instruments: Identification and Distribution Generalization. Proceedings of the 39th International Conference on Machine Learning (ICML), PMLR 162:18935-18958, 2022 link
-L. Henckel, E. Perkovi&#39;c, M. H. Maathuis. Graphical Criteria for Efficient Total Effect Estimation via Adjustment in Causal Linear Models.</description>
+S. Saengkyongam, L. Henckel, N. Pfister, J. Peters. Exploiting Independent Instruments: Identification and Distribution Generalization. Proceedings of the 39th International Conference on Machine Learning (ICML), PMLR 162:18935-18958, 2022 link</description>
     </item>
     
     <item>
@@ -24,16 +24,15 @@ L. Henckel, E. Perkovi&#39;c, M. H. Maathuis. Graphical Criteria for Efficient T
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://henckell.github.io/talks/</guid>
-      <description>YES causal inference workshop, Eindhoven, March 2023 upcoming
+      <description>OxCSML seminar, Oxford, May 2023
+Invited talk: Graphical tools for conditional instrumental set selection
+YES causal inference workshop, Eindhoven, March 2023
 Keynote talk: Efficient causal effect estimation with graphical models
 IMS International Conference on Statistics and Data Science, Florence, December 2022
 Invited talk: HSIC-X: An estimator exploiting independent instruments
 Experimental design and causality in (neuro)science workshop, Copenhagen, November 2022
 Invited talk: An Introduction to Causality
-Young Statisticians Denmark, Copenhagen, March 2022
-Invited talk: Graphical tools for causal inference
-NORDSTAT, Tromso, June 2021
-Invited talk: Efficient conditional instrumental set selection</description>
+Young Statisticians Denmark, Copenhagen, March 2022</description>
     </item>
     
     <item>
@@ -42,7 +41,11 @@ Invited talk: Efficient conditional instrumental set selection</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://henckell.github.io/teaching/</guid>
-      <description>Teaching assistant:
+      <description>Lecturer:
+Statistics and Probability (Spring Trimester 2022/23)
+Causality (Block 4 2022/23)
+Teaching assistant:
+Models for Complex Systems (Block 3 2022/23)
 Project in Statistics (Block 4 2021/22)
 Models for Complex Systems (Block 3 2021/22)
 Student Seminar in Statistics: Statistical Network Modeling (Spring 2021)
@@ -50,10 +53,7 @@ Statistical Modelling (Autumn 2020)
 Student Seminar in Statistics: Inference in Non-Classical Regression Models (Spring 2020)
 Statistics II for Medical Students (Autumn 2019)
 Statistics and Probability (Spring 2019)
-Applied Statistical Regression (Autumn 2018)
-Statistics and Probability (Spring 2018)
-Algebra I (Autumn 2016)
- Master thesis supervision: Søren Thomsen (2022): Causal Attribution in Linear Models</description>
+Applied Statistical Regression (Autumn 2018)</description>
     </item>
     
   </channel>

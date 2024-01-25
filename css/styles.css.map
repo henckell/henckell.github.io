@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "styles.css",
-	"sourceRoot": "C:/Users/mgz826/Documents/Website/myweb",
+	"sourceRoot": "C:/Users/henck/OneDrive/Documents/Website/myweb",
 	"sources": [
 		"themes/hugo-theme-cactus/assets/scss/style.scss",
 		"themes/hugo-theme-cactus/assets/scss/_variables.scss",
