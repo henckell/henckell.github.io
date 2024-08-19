@@ -13,9 +13,9 @@
       
       <guid>https://henckell.github.io/research/</guid>
       <description>Published papers:
+L. Henckel, T. Wurtzen, S. Weichwald Adjustment Identification Distance: A gadjid for Causal Structure Learning. Proceedings of the 40th Conference on Uncertainty in Artificial Intelligence (UAI), to appear. link
 L. Henckel, M. Buttenschon, M. H. Maathuis Graphical tools for selecting conditional instrumental sets. Biometrika, to appear. link
-S. Zehao, L. Henckel. A Robustness Test for Estimating Total Effects with Covariate Adjustments. Proceedings of the 38th Conference on Uncertainty in Artificial Intelligence (UAI), 180:1886-1895, 2022 link
-S. Saengkyongam, L. Henckel, N. Pfister, J. Peters. Exploiting Independent Instruments: Identification and Distribution Generalization. Proceedings of the 39th International Conference on Machine Learning (ICML), PMLR 162:18935-18958, 2022 link</description>
+S. Zehao, L. Henckel. A Robustness Test for Estimating Total Effects with Covariate Adjustments. Proceedings of the 38th Conference on Uncertainty in Artificial Intelligence (UAI), 180:1886-1895, 2022 link</description>
     </item>
     
     <item>
@@ -24,15 +24,15 @@ S. Saengkyongam, L. Henckel, N. Pfister, J. Peters. Exploiting Independent Instr
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://henckell.github.io/talks/</guid>
-      <description>OxCSML seminar, Oxford, May 2023
+      <description>The 11th IMS World Congress, Bochum, August 2024
+Contributed talk: Adjustment identification distance: A gadjid for causal structure learning
+Causality in Extremes Workshop, Geneva, February 2024
+Invited talk: Specific causes
+OxCSML seminar, Oxford, May 2023
 Invited talk: Graphical tools for conditional instrumental set selection
-YES causal inference workshop, Eindhoven, March 2023
+YES Causal Inference Workshop, Eindhoven, March 2023
 Keynote talk: Efficient causal effect estimation with graphical models
-IMS International Conference on Statistics and Data Science, Florence, December 2022
-Invited talk: HSIC-X: An estimator exploiting independent instruments
-Experimental design and causality in (neuro)science workshop, Copenhagen, November 2022
-Invited talk: An Introduction to Causality
-Young Statisticians Denmark, Copenhagen, March 2022</description>
+IMS International Conference on Statistics and Data Science, Florence, December 2022</description>
     </item>
     
     <item>
@@ -42,7 +42,7 @@ Young Statisticians Denmark, Copenhagen, March 2022</description>
       
       <guid>https://henckell.github.io/teaching/</guid>
       <description>Lecturer:
-Statistics and Probability (Spring Trimester 2022/23)
+Statistics and Probability (Spring Trimester 2023/24)
 Causality (Block 4 2022/23)
 Teaching assistant:
 Models for Complex Systems (Block 3 2022/23)
